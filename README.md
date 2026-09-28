@@ -21,3 +21,7 @@ Files and Streams
 10) File pointer navigation
 11) Binary file record writing/reading
 12) Random access in a binary file
+13) File error handling
+14) File statistics mini-project
+15) Student record manager mini-project
+16) Library record mini-project
